@@ -1,0 +1,24 @@
+
+h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+h4{text-align: center;} 
+
+
+body {
+    background-color: grey;
+}
+
+h1{color: greenyellow;font-size: 36px;}
+h2{color: greenyellow; font-size: 28px;}
+h3{color: greenyellow;font-size: 28px;}
+h4{color: greenyellow;font-size: 28px;}
+
+p1{color: rgb(5, 5, 63); font-size: 18px;}
+p2{color: rgb(5, 5, 63); font-size: 18px;}
+p3{color: rgb(5, 5, 63); font-size: 18px;}
+p4{color: rgb(5, 5, 63); font-size: 18px;}
+
+p1{text-align: center;
+p2{text-align: center;
+
